@@ -44,10 +44,6 @@ public void setLastName(String lastName) {
 ### hibernate.cfg.xml
 
 <?xml version='1.0' encoding='UTF-8'?>  
-<!DOCTYPE hibernate-configuration PUBLIC  
-          "-//Hibernate/Hibernate Configuration DTD 5.3//EN"  
-          "http://hibernate.sourceforge.net/hibernate-configuration-5.3.dtd">  
-  
 <hibernate-configuration>  
     <session-factory>  
 	<!-- Connection Properties -->
